@@ -1,0 +1,16 @@
+.quality-buttons {
+  display: flex;
+  flex-direction: column;
+}
+
+.option {
+  border-bottom: 1px solid grey;
+  text-align: end;
+  cursor: pointer;
+}
+
+.option:hover {
+  color: black;
+  background-color: gainsboro;
+  border: 2px solid grey;
+}
